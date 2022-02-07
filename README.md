@@ -7,4 +7,4 @@ I'm currently learning:book:  React Native and how to become a cross platform mo
 ### How to contact me : 
 
 :mailbox: : mustapha.alouche.o@gmail.com
-Linkedin : https://www.linkedin.com/in/mustapha-alouche-0b48b4222
+Linkedin : www.linkedin.com/in/Mustapha-Alouche
